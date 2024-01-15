@@ -1,9 +1,22 @@
+* {
+    font-family: monospace;
+}
+
 body {
-    font-size: 22px;
+    font-size: 16px;
+}
+
+h1, h2 {
+    color: blue;
 }
 
 p {
     color: purple;
+}
+
+.highlight {
+    text-transform: uppercase;
+    background-color: gold;
 }
 
 .gray {
